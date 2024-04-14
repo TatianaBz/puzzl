@@ -1,0 +1,2 @@
+cd huskyfile
+npm run ci:format
