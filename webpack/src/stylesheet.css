@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Cousine";
+  src: url("fonts/Cousine-bold.ttf") format("ttf"),
+    url("fonts/Cousine-bold.woff2") format("woff2"),
+    url("fonts/Cousine-bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
