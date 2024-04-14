@@ -1,3 +1,0 @@
-cd huskyfile
-npm run lint
-npx validate-branch-name
