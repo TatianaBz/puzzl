@@ -1,0 +1,43 @@
+@font-face {
+  font-family: 'Cousine';
+  src:
+    url('../fonts/Cousine-bolditalic.ttf') format('ttf'),
+    url('../fonts/Cousine-bolditalic.woff2') format('woff2'),
+    url('../fonts/Cousine-bolditalic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cousine';
+  src:
+    url('../fonts/Cousine-italic.ttf') format('ttf'),
+    url('../fonts/Cousine-italic.woff2') format('woff2'),
+    url('../fonts/Cousine-italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cousine';
+  src:
+    url('../fonts/Cousine-bold.ttf') format('ttf'),
+    url('../fonts/Cousine-bold.woff2') format('woff2'),
+    url('../fonts/Cousine-bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cousine';
+  src:
+    url('../fonts/Cousine-regular.ttf') format('ttf'),
+    url('../fonts/Cousine-regular.woff2') format('woff2'),
+    url('../fonts/Cousine-regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
