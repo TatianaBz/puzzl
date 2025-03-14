@@ -31,22 +31,20 @@ module.exports = {
         default: "array",
       },
     ],
-    "@typescript-eslint/explicit-member-accessibility": [
-      "error",
-      {
-        accessibility: "explicit",
-        overrides: {
-          accessors: "explicit",
-          constructors: "no-public",
-          methods: "explicit",
-          properties: "off",
-          parameterProperties: "explicit",
-        },
-      },
-    ],
     "max-lines-per-function": ["error", 40],
     "@typescript-eslint/explicit-function-return-type": "error",
     "@typescript-eslint/no-unnecessary-type-assertion": "error",
     "@typescript-eslint/no-non-null-assertion": "error",
+    "@typescript-eslint/consistent-type-assertions": [
+      "error",
+      { assertionStyle: "never" },
+    ],
+    "@typescript-eslint/consistent-type-imports": "error",
+    "@typescript-eslint/explicit-member-accessibility": [
+      "error",
+      { accessibility: "explicit", overrides: { constructors: "off" } },
+    ],
+    "@typescript-eslint/member-ordering": "error",
+    "class-methods-use-this": "error",
   },
 };

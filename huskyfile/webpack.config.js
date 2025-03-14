@@ -49,8 +49,8 @@ module.exports = {
         },
       },
       {
-        test: /\.(jpe?g|png|webp|gif|svg)$/i,
-        use: devMode
+        test: /\.(png|svg|jpg|jpeg|gif)$/i,
+        type: "asset/resource"
           ? []
           : [
               {

@@ -18,13 +18,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _node_modules_css_loader_dist_cjs_js_stylesheet_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! -!../../node_modules/css-loader/dist/cjs.js!./stylesheet.css */ "./node_modules/css-loader/dist/cjs.js!./src/css/stylesheet.css");
 /* harmony import */ var _node_modules_css_loader_dist_cjs_js_universal_styles_css__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! -!../../node_modules/css-loader/dist/cjs.js!./universal-styles.css */ "./node_modules/css-loader/dist/cjs.js!./src/css/universal-styles.css");
-/* harmony import */ var _node_modules_css_loader_dist_cjs_js_login_form_css__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! -!../../node_modules/css-loader/dist/cjs.js!./login-form.css */ "./node_modules/css-loader/dist/cjs.js!./src/css/login-form.css");
-/* harmony import */ var _node_modules_css_loader_dist_cjs_js_btn_css__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! -!../../node_modules/css-loader/dist/cjs.js!./btn.css */ "./node_modules/css-loader/dist/cjs.js!./src/css/btn.css");
-/* harmony import */ var _node_modules_css_loader_dist_cjs_js_background_css__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! -!../../node_modules/css-loader/dist/cjs.js!./background.css */ "./node_modules/css-loader/dist/cjs.js!./src/css/background.css");
 // Imports
-
-
-
 
 
 
@@ -32,171 +26,8 @@ __webpack_require__.r(__webpack_exports__);
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_sourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));
 ___CSS_LOADER_EXPORT___.i(_node_modules_css_loader_dist_cjs_js_stylesheet_css__WEBPACK_IMPORTED_MODULE_2__["default"]);
 ___CSS_LOADER_EXPORT___.i(_node_modules_css_loader_dist_cjs_js_universal_styles_css__WEBPACK_IMPORTED_MODULE_3__["default"]);
-___CSS_LOADER_EXPORT___.i(_node_modules_css_loader_dist_cjs_js_login_form_css__WEBPACK_IMPORTED_MODULE_4__["default"]);
-___CSS_LOADER_EXPORT___.i(_node_modules_css_loader_dist_cjs_js_btn_css__WEBPACK_IMPORTED_MODULE_5__["default"]);
-___CSS_LOADER_EXPORT___.i(_node_modules_css_loader_dist_cjs_js_background_css__WEBPACK_IMPORTED_MODULE_6__["default"]);
 // Module
 ___CSS_LOADER_EXPORT___.push([module.id, ``, "",{"version":3,"sources":[],"names":[],"mappings":"","sourceRoot":""}]);
-// Exports
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
-
-
-/***/ }),
-
-/***/ "./node_modules/css-loader/dist/cjs.js!./src/css/background.css":
-/*!**********************************************************************!*\
-  !*** ./node_modules/css-loader/dist/cjs.js!./src/css/background.css ***!
-  \**********************************************************************/
-/***/ ((module, __webpack_exports__, __webpack_require__) => {
-
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony import */ var _node_modules_css_loader_dist_runtime_sourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/sourceMaps.js */ "./node_modules/css-loader/dist/runtime/sourceMaps.js");
-/* harmony import */ var _node_modules_css_loader_dist_runtime_sourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_sourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
-/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);
-// Imports
-
-
-var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_sourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));
-// Module
-___CSS_LOADER_EXPORT___.push([module.id, ``, "",{"version":3,"sources":[],"names":[],"mappings":"","sourceRoot":""}]);
-// Exports
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
-
-
-/***/ }),
-
-/***/ "./node_modules/css-loader/dist/cjs.js!./src/css/btn.css":
-/*!***************************************************************!*\
-  !*** ./node_modules/css-loader/dist/cjs.js!./src/css/btn.css ***!
-  \***************************************************************/
-/***/ ((module, __webpack_exports__, __webpack_require__) => {
-
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony import */ var _node_modules_css_loader_dist_runtime_sourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/sourceMaps.js */ "./node_modules/css-loader/dist/runtime/sourceMaps.js");
-/* harmony import */ var _node_modules_css_loader_dist_runtime_sourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_sourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
-/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);
-// Imports
-
-
-var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_sourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));
-// Module
-___CSS_LOADER_EXPORT___.push([module.id, `.btn {
-  display: block;
-  font-family: Cousine;
-  font-weight: 400;
-  font-size: 20px;
-  color: #545454;
-  padding: 10px 40px;
-  background-color: #e6e6e6;
-  border: 1px solid #bdbdbd;
-  border-radius: 8px;
-}
-`, "",{"version":3,"sources":["webpack://./src/css/btn.css"],"names":[],"mappings":"AAAA;EACE,cAAc;EACd,oBAAoB;EACpB,gBAAgB;EAChB,eAAe;EACf,cAAc;EACd,kBAAkB;EAClB,yBAAyB;EACzB,yBAAyB;EACzB,kBAAkB;AACpB","sourcesContent":[".btn {\n  display: block;\n  font-family: Cousine;\n  font-weight: 400;\n  font-size: 20px;\n  color: #545454;\n  padding: 10px 40px;\n  background-color: #e6e6e6;\n  border: 1px solid #bdbdbd;\n  border-radius: 8px;\n}\n"],"sourceRoot":""}]);
-// Exports
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
-
-
-/***/ }),
-
-/***/ "./node_modules/css-loader/dist/cjs.js!./src/css/login-form.css":
-/*!**********************************************************************!*\
-  !*** ./node_modules/css-loader/dist/cjs.js!./src/css/login-form.css ***!
-  \**********************************************************************/
-/***/ ((module, __webpack_exports__, __webpack_require__) => {
-
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony import */ var _node_modules_css_loader_dist_runtime_sourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/sourceMaps.js */ "./node_modules/css-loader/dist/runtime/sourceMaps.js");
-/* harmony import */ var _node_modules_css_loader_dist_runtime_sourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_sourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ "./node_modules/css-loader/dist/runtime/api.js");
-/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);
-// Imports
-
-
-var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_sourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));
-// Module
-___CSS_LOADER_EXPORT___.push([module.id, `.login-form {
-  margin: auto;
-  width: 700px;
-  height: 600px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: space-evenly;
-}
-:focus {
-  outline: none;
-}
-.input-box {
-  position: relative;
-  display: block;
-  margin-bottom: 25px;
-  display: flex;
-  align-items: flex-start;
-}
-.input {
-  font-family: Cousine;
-  font-weight: 400;
-  font-size: 22px;
-  color: #545454;
-  width: 350px;
-  height: 32px;
-  border-radius: 8px;
-  letter-spacing: 1px;
-  padding: 7px 15px;
-  border: 1px solid #6d3c55;
-  position: relative;
-  background: transparent;
-}
-
-.input ~ .focus-bg {
-  font-family: Cousine;
-  font-weight: 400;
-  font-size: 14px;
-  color: #545454;
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 382px;
-  height: 100%;
-  background-color: #f4f3f3;
-  opacity: 0;
-  transition: 0.5s;
-  z-index: -1;
-}
-.input:focus ~ .focus-bg {
-  transition: 0.5s;
-  opacity: 1;
-}
-.login-label {
-  font-family: Cousine;
-  font-weight: 400;
-  font-size: 20px;
-  color: #6d3c55;
-}
-.input-btn {
-  margin: 0 auto;
-}
-.input-message {
-  width: 250px;
-  font-family: Cousine;
-  font-weight: 500;
-  font-size: 14px;
-  color: red;
-  margin: 0 0 0 15px;
-  padding: 0;
-}
-`, "",{"version":3,"sources":["webpack://./src/css/login-form.css"],"names":[],"mappings":"AAAA;EACE,YAAY;EACZ,YAAY;EACZ,aAAa;EACb,aAAa;EACb,sBAAsB;EACtB,mBAAmB;EACnB,6BAA6B;AAC/B;AACA;EACE,aAAa;AACf;AACA;EACE,kBAAkB;EAClB,cAAc;EACd,mBAAmB;EACnB,aAAa;EACb,uBAAuB;AACzB;AACA;EACE,oBAAoB;EACpB,gBAAgB;EAChB,eAAe;EACf,cAAc;EACd,YAAY;EACZ,YAAY;EACZ,kBAAkB;EAClB,mBAAmB;EACnB,iBAAiB;EACjB,yBAAyB;EACzB,kBAAkB;EAClB,uBAAuB;AACzB;;AAEA;EACE,oBAAoB;EACpB,gBAAgB;EAChB,eAAe;EACf,cAAc;EACd,kBAAkB;EAClB,OAAO;EACP,MAAM;EACN,YAAY;EACZ,YAAY;EACZ,yBAAyB;EACzB,UAAU;EACV,gBAAgB;EAChB,WAAW;AACb;AACA;EACE,gBAAgB;EAChB,UAAU;AACZ;AACA;EACE,oBAAoB;EACpB,gBAAgB;EAChB,eAAe;EACf,cAAc;AAChB;AACA;EACE,cAAc;AAChB;AACA;EACE,YAAY;EACZ,oBAAoB;EACpB,gBAAgB;EAChB,eAAe;EACf,UAAU;EACV,kBAAkB;EAClB,UAAU;AACZ","sourcesContent":[".login-form {\n  margin: auto;\n  width: 700px;\n  height: 600px;\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: space-evenly;\n}\n:focus {\n  outline: none;\n}\n.input-box {\n  position: relative;\n  display: block;\n  margin-bottom: 25px;\n  display: flex;\n  align-items: flex-start;\n}\n.input {\n  font-family: Cousine;\n  font-weight: 400;\n  font-size: 22px;\n  color: #545454;\n  width: 350px;\n  height: 32px;\n  border-radius: 8px;\n  letter-spacing: 1px;\n  padding: 7px 15px;\n  border: 1px solid #6d3c55;\n  position: relative;\n  background: transparent;\n}\n\n.input ~ .focus-bg {\n  font-family: Cousine;\n  font-weight: 400;\n  font-size: 14px;\n  color: #545454;\n  position: absolute;\n  left: 0;\n  top: 0;\n  width: 382px;\n  height: 100%;\n  background-color: #f4f3f3;\n  opacity: 0;\n  transition: 0.5s;\n  z-index: -1;\n}\n.input:focus ~ .focus-bg {\n  transition: 0.5s;\n  opacity: 1;\n}\n.login-label {\n  font-family: Cousine;\n  font-weight: 400;\n  font-size: 20px;\n  color: #6d3c55;\n}\n.input-btn {\n  margin: 0 auto;\n}\n.input-message {\n  width: 250px;\n  font-family: Cousine;\n  font-weight: 500;\n  font-size: 14px;\n  color: red;\n  margin: 0 0 0 15px;\n  padding: 0;\n}\n"],"sourceRoot":""}]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -250,49 +81,49 @@ var ___CSS_LOADER_URL_REPLACEMENT_10___ = _node_modules_css_loader_dist_runtime_
 var ___CSS_LOADER_URL_REPLACEMENT_11___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_11___);
 // Module
 ___CSS_LOADER_EXPORT___.push([module.id, `@font-face {
-  font-family: 'Cousine';
+  font-family: "Cousine";
   src:
-    url(${___CSS_LOADER_URL_REPLACEMENT_0___}) format('ttf'),
-    url(${___CSS_LOADER_URL_REPLACEMENT_1___}) format('woff2'),
-    url(${___CSS_LOADER_URL_REPLACEMENT_2___}) format('woff');
+    url(${___CSS_LOADER_URL_REPLACEMENT_0___}) format("ttf"),
+    url(${___CSS_LOADER_URL_REPLACEMENT_1___}) format("woff2"),
+    url(${___CSS_LOADER_URL_REPLACEMENT_2___}) format("woff");
   font-weight: bold;
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Cousine';
+  font-family: "Cousine";
   src:
-    url(${___CSS_LOADER_URL_REPLACEMENT_3___}) format('ttf'),
-    url(${___CSS_LOADER_URL_REPLACEMENT_4___}) format('woff2'),
-    url(${___CSS_LOADER_URL_REPLACEMENT_5___}) format('woff');
+    url(${___CSS_LOADER_URL_REPLACEMENT_3___}) format("ttf"),
+    url(${___CSS_LOADER_URL_REPLACEMENT_4___}) format("woff2"),
+    url(${___CSS_LOADER_URL_REPLACEMENT_5___}) format("woff");
   font-weight: normal;
   font-style: italic;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Cousine';
+  font-family: "Cousine";
   src:
-    url(${___CSS_LOADER_URL_REPLACEMENT_6___}) format('ttf'),
-    url(${___CSS_LOADER_URL_REPLACEMENT_7___}) format('woff2'),
-    url(${___CSS_LOADER_URL_REPLACEMENT_8___}) format('woff');
+    url(${___CSS_LOADER_URL_REPLACEMENT_6___}) format("ttf"),
+    url(${___CSS_LOADER_URL_REPLACEMENT_7___}) format("woff2"),
+    url(${___CSS_LOADER_URL_REPLACEMENT_8___}) format("woff");
   font-weight: bold;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Cousine';
+  font-family: "Cousine";
   src:
-    url(${___CSS_LOADER_URL_REPLACEMENT_9___}) format('ttf'),
-    url(${___CSS_LOADER_URL_REPLACEMENT_10___}) format('woff2'),
-    url(${___CSS_LOADER_URL_REPLACEMENT_11___}) format('woff');
+    url(${___CSS_LOADER_URL_REPLACEMENT_9___}) format("ttf"),
+    url(${___CSS_LOADER_URL_REPLACEMENT_10___}) format("woff2"),
+    url(${___CSS_LOADER_URL_REPLACEMENT_11___}) format("woff");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
-`, "",{"version":3,"sources":["webpack://./src/css/stylesheet.css"],"names":[],"mappings":"AAAA;EACE,sBAAsB;EACtB;;;0DAGwD;EACxD,iBAAiB;EACjB,kBAAkB;EAClB,kBAAkB;AACpB;;AAEA;EACE,sBAAsB;EACtB;;;0DAGoD;EACpD,mBAAmB;EACnB,kBAAkB;EAClB,kBAAkB;AACpB;;AAEA;EACE,sBAAsB;EACtB;;;0DAGkD;EAClD,iBAAiB;EACjB,kBAAkB;EAClB,kBAAkB;AACpB;;AAEA;EACE,sBAAsB;EACtB;;;2DAGqD;EACrD,mBAAmB;EACnB,kBAAkB;EAClB,kBAAkB;AACpB","sourcesContent":["@font-face {\n  font-family: 'Cousine';\n  src:\n    url('../fonts/Cousine-bolditalic.ttf') format('ttf'),\n    url('../fonts/Cousine-bolditalic.woff2') format('woff2'),\n    url('../fonts/Cousine-bolditalic.woff') format('woff');\n  font-weight: bold;\n  font-style: italic;\n  font-display: swap;\n}\n\n@font-face {\n  font-family: 'Cousine';\n  src:\n    url('../fonts/Cousine-italic.ttf') format('ttf'),\n    url('../fonts/Cousine-italic.woff2') format('woff2'),\n    url('../fonts/Cousine-italic.woff') format('woff');\n  font-weight: normal;\n  font-style: italic;\n  font-display: swap;\n}\n\n@font-face {\n  font-family: 'Cousine';\n  src:\n    url('../fonts/Cousine-bold.ttf') format('ttf'),\n    url('../fonts/Cousine-bold.woff2') format('woff2'),\n    url('../fonts/Cousine-bold.woff') format('woff');\n  font-weight: bold;\n  font-style: normal;\n  font-display: swap;\n}\n\n@font-face {\n  font-family: 'Cousine';\n  src:\n    url('../fonts/Cousine-regular.ttf') format('ttf'),\n    url('../fonts/Cousine-regular.woff2') format('woff2'),\n    url('../fonts/Cousine-regular.woff') format('woff');\n  font-weight: normal;\n  font-style: normal;\n  font-display: swap;\n}\n"],"sourceRoot":""}]);
+`, "",{"version":3,"sources":["webpack://./src/css/stylesheet.css"],"names":[],"mappings":"AAAA;EACE,sBAAsB;EACtB;;;0DAGwD;EACxD,iBAAiB;EACjB,kBAAkB;EAClB,kBAAkB;AACpB;;AAEA;EACE,sBAAsB;EACtB;;;0DAGoD;EACpD,mBAAmB;EACnB,kBAAkB;EAClB,kBAAkB;AACpB;;AAEA;EACE,sBAAsB;EACtB;;;0DAGkD;EAClD,iBAAiB;EACjB,kBAAkB;EAClB,kBAAkB;AACpB;;AAEA;EACE,sBAAsB;EACtB;;;2DAGqD;EACrD,mBAAmB;EACnB,kBAAkB;EAClB,kBAAkB;AACpB","sourcesContent":["@font-face {\n  font-family: \"Cousine\";\n  src:\n    url(\"../fonts/Cousine-bolditalic.ttf\") format(\"ttf\"),\n    url(\"../fonts/Cousine-bolditalic.woff2\") format(\"woff2\"),\n    url(\"../fonts/Cousine-bolditalic.woff\") format(\"woff\");\n  font-weight: bold;\n  font-style: italic;\n  font-display: swap;\n}\n\n@font-face {\n  font-family: \"Cousine\";\n  src:\n    url(\"../fonts/Cousine-italic.ttf\") format(\"ttf\"),\n    url(\"../fonts/Cousine-italic.woff2\") format(\"woff2\"),\n    url(\"../fonts/Cousine-italic.woff\") format(\"woff\");\n  font-weight: normal;\n  font-style: italic;\n  font-display: swap;\n}\n\n@font-face {\n  font-family: \"Cousine\";\n  src:\n    url(\"../fonts/Cousine-bold.ttf\") format(\"ttf\"),\n    url(\"../fonts/Cousine-bold.woff2\") format(\"woff2\"),\n    url(\"../fonts/Cousine-bold.woff\") format(\"woff\");\n  font-weight: bold;\n  font-style: normal;\n  font-display: swap;\n}\n\n@font-face {\n  font-family: \"Cousine\";\n  src:\n    url(\"../fonts/Cousine-regular.ttf\") format(\"ttf\"),\n    url(\"../fonts/Cousine-regular.woff2\") format(\"woff2\"),\n    url(\"../fonts/Cousine-regular.woff\") format(\"woff\");\n  font-weight: normal;\n  font-style: normal;\n  font-display: swap;\n}\n"],"sourceRoot":""}]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -528,10 +359,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _node_modules_html_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_html_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_0__);
 // Imports
 
-var ___HTML_LOADER_IMPORT_0___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/puzzle.ico */ "./src/assets/puzzle.ico"), __webpack_require__.b);
+var ___HTML_LOADER_IMPORT_0___ = new URL(/* asset import */ __webpack_require__(/*! ./assets/ico.ico */ "./src/assets/ico.ico"), __webpack_require__.b);
 // Module
 var ___HTML_LOADER_REPLACEMENT_0___ = _node_modules_html_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_0___default()(___HTML_LOADER_IMPORT_0___);
-var code = "<!doctype html>\n<html lang=\"ru\">\n  <head>\n    <meta charset=\"UTF-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <link rel=\"shortcut icon\" href=\"" + ___HTML_LOADER_REPLACEMENT_0___ + "\" type=\"image/x-icon\" />\n    <title>rss-puzzle</title>\n  </head>\n  <body>\n    <header>\n      <h1 class=\"visually-hidden\">rss-puzzle</h1>\n    </header>\n    <main>\n      <div class=\"login-form\">\n        <form action=\"#\" method=\"get\">\n          <label class=\"login-label\" for=\"fname\">First name:</label><br />\n          <div class=\"input-box\">\n            <input\n              class=\"input\"\n              type=\"text\"\n              id=\"fname\"\n              name=\"fname\"\n              required\n            /><br />\n            <p class=\"input-message none\"></p>\n            <span class=\"focus-bg\"></span>\n          </div>\n          <label class=\"login-label\" for=\"lname\">Last name:</label><br />\n          <div class=\"input-box\">\n            <input class=\"input\" type=\"text\" id=\"lname\" name=\"lname\" required />\n            <p class=\"input-message none\"></p>\n            <span class=\"focus-bg\"></span>\n          </div>\n          <button class=\"input-btn btn\" type=\"button\">Enter</button>\n        </form>\n      </div>\n    </main>\n    <footer></footer>\n  </body>\n</html>\n";
+var code = "<!doctype html>\n<html lang=\"ru\">\n  <head>\n    <meta charset=\"UTF-8\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />\n    <link rel=\"shortcut icon\" href=\"" + ___HTML_LOADER_REPLACEMENT_0___ + "\" type=\"image/x-icon\" />\n    <title>decision-making-tool</title>\n  </head>\n  <body></body>\n</html>\n";
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (code);
 
@@ -889,13 +720,13 @@ module.exports = styleTagTransform;
 
 /***/ }),
 
-/***/ "./src/assets/puzzle.ico":
-/*!*******************************!*\
-  !*** ./src/assets/puzzle.ico ***!
-  \*******************************/
+/***/ "./src/assets/ico.ico":
+/*!****************************!*\
+  !*** ./src/assets/ico.ico ***!
+  \****************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-module.exports = __webpack_require__.p + "assets/57a9cf8cbe6c0b022696.ico";
+module.exports = __webpack_require__.p + "assets/d83f540d422c2f899796.ico";
 
 /***/ }),
 
@@ -1166,20 +997,10 @@ var exports = __webpack_exports__;
 
 Object.defineProperty(exports, "__esModule", ({ value: true }));
 __webpack_require__(/*! ./css/index.css */ "./src/css/index.css");
-//import './ts/input.ts';
 __webpack_require__(/*! ./index.html */ "./src/index.html");
-const finput = document.getElementById('fname');
-//const linput = document.querySelector('#lname') as HTMLInputElement;
-/*const value = finput?.value;
-console.log(value);
-
-finput?.addEventListener('blur', function () {
-  console.log(value);
-});
-*/
 
 })();
 
 /******/ })()
 ;
-//# sourceMappingURL=index.98c9b4d9411216d7dd4e.js.map
+//# sourceMappingURL=index.5888799d025b62e828a7.js.map

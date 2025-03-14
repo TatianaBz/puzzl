@@ -1,5 +1,5 @@
 {
-  "name": "bundl",
+  "name": "decision-making-tool",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,7 +13,9 @@
     "ci:format": "prettier --check ./src",
     "lint": "eslint ./src --fix",
     "precommit": "lint-staged",
-    "lint-staged": "lint-staged $STAGED_FILES"
+    "lint-staged": "lint-staged $STAGED_FILES",
+    "stylelint": "stylelint '**/*{.css,.scss}'",
+    "stylelint:fix": "stylelint '**/*{.css,.scss}' --fix"
   },
   "keywords": [],
   "author": "",
@@ -51,9 +53,16 @@
     "webpack-dev-server": "^5.0.3"
   },
   "lint-staged": {
-    "*.{css,ts}": [
-      "prettier --check",
-      "eslint --fix"
+    "*.css": [
+      "stylelint --fix",
+      "prettier --write"
+    ],
+    "*.{js,jsx}": [
+      "eslint --fix",
+      "prettier --write"
+    ],
+    "!(*.css|*.js|*.jsx)": [
+      "prettier --write"
     ]
   }
 }
